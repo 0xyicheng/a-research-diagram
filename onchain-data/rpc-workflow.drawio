@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2022-05-19T15:36:41.730Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="JVKL6ZbbtCogS0EkTcpx" version="18.0.7" type="github">
+  <diagram id="B21RAmatwuYNHKI92kOE" name="Page-1">
+    <mxGraphModel dx="2276" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hXdrNt66-wiPAbCONSOE-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Define the transformed data structure&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E1DDBF;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hXdrNt66-wiPAbCONSOE-24" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Encapsulates a single RPC for generating batch RPCs&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E1DDBF;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-435" y="310" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hXdrNt66-wiPAbCONSOE-27" value="&lt;div&gt;Simply convert hexadecimal to decimal&lt;/div&gt;&lt;div&gt;The complexity will involve the RLP encoding method&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="200" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9G414LHua1nHi3aBU_wk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 1;strokeColor=#FFFFFF;strokeWidth=3;" parent="1" source="hXdrNt66-wiPAbCONSOE-28" target="9G414LHua1nHi3aBU_wk-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hXdrNt66-wiPAbCONSOE-28" value="Generate RPC according to start block and end block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-550" y="420" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9G414LHua1nHi3aBU_wk-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Connect nodes, call batch RPC, generate corresponding Raw DATA, and perform data conversion on it&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E1DDBF;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-500" y="510" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9G414LHua1nHi3aBU_wk-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Import the converted data as a CSV file, and then import into the database&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#E1DDBF;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="690" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9G414LHua1nHi3aBU_wk-4" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" parent="1" target="hXdrNt66-wiPAbCONSOE-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-330" y="180" as="sourcePoint" />
+            <mxPoint x="-280" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9G414LHua1nHi3aBU_wk-5" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=3;dashed=1;dashPattern=1 1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="hXdrNt66-wiPAbCONSOE-24" target="9G414LHua1nHi3aBU_wk-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-330.62" y="410" as="sourcePoint" />
+            <mxPoint x="-331" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9G414LHua1nHi3aBU_wk-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;strokeWidth=3;dashed=1;dashPattern=1 1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-330.6299999999999" y="610" as="sourcePoint" />
+            <mxPoint x="-330" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
