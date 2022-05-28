@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T08:59:15.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="pt8w6yFJmJ9O6PgvsIcw" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T09:00:00.567Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="hJiYLfJCdvkPHdr0rijM" version="18.1.2" type="github">
   <diagram id="iq82k_CcXOoh-QL1EGZy" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
             <mxPoint x="200" y="380" as="sourcePoint" />
             <mxPoint x="250" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gKg8q_XGbrm0nTCY5SpG-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;关于stack，还有一个问题：&lt;span style=&quot;background-color: initial;&quot;&gt;把静态数据存到heap，把静态数据存到heap返回的pointer存到stack上？&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;实际调用还是 stack -&amp;gt; pointer -&amp;gt; value on heap&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="530" width="720" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
