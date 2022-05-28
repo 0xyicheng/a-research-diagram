@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T08:28:02.415Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.1.2" etag="FEN6Gi9lQWYrociBBwm7" type="github"><diagram id="iq82k_CcXOoh-QL1EGZy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-28T08:50:25.384Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="gSg_UyyglQYKxIR890VB" version="18.1.2" type="github">
+  <diagram id="iq82k_CcXOoh-QL1EGZy" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=25;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="f7VV3FSo1yTFseoWPm1R-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="290" as="sourcePoint" />
+            <mxPoint x="630" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-9" value="数据长度固定 or 未知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="90" as="sourcePoint" />
+            <mxPoint x="250" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="f7VV3FSo1yTFseoWPm1R-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="90" as="sourcePoint" />
+            <mxPoint x="440" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-14" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Stack&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-15" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Heap&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-16" value="长度确定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-17" value="长度未知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f7VV3FSo1yTFseoWPm1R-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;分配过程：&lt;br&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1）向memory allocator（内存分配器）请求空间&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2）allocator在heap上找到一个空位，并标记为已使用&lt;br&gt;&lt;br&gt;3）allocator返回一个指向该value地址位置的指针（pointer）&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="730" y="200" width="180" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
