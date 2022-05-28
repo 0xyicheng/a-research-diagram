@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T09:12:32.102Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="gdua6Msjc_jaYOR29G0i" version="18.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-28T09:15:01.961Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="h4jobOC4tDO9RacmLy06" version="18.1.3" type="github">
   <diagram id="86G1wzCPfcubY0hBgP5h" name="Page-1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="QaYmW2VWhPKLXj62cDTN-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;stack（pointer）指向heap（value content）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="193.48000000000002" y="70" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QaYmW2VWhPKLXj62cDTN-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;那么如果变量hello，变成了hello world会发生什么呢？&lt;br&gt;凭借已有知识，我的猜测是会在heap上删除旧的location，allocator对新值找一块新的location，再创建新的stack-pointer&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="500" width="960" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
