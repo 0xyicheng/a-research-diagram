@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T13:48:18.842Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.1.3" etag="YPVRmanwYAjS5PV-8ySc" type="github"><diagram id="4X2-VYTh_pj3byaHqmZt">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-06T13:51:06.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="S4e2pBYhVLkoRRTywwuJ" version="18.1.3" type="github">
+  <diagram id="4X2-VYTh_pj3byaHqmZt" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OYCCCpeQl12Sz_3t2W0e-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="210" width="420" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="OYCCCpeQl12Sz_3t2W0e-2" value="&lt;span data-reactroot=&quot;&quot; class=&quot;notion-enable-hover&quot; data-token-index=&quot;0&quot; style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;polynomials&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="335" y="360" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="OYCCCpeQl12Sz_3t2W0e-3" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;algebraic expressions&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="260" width="430" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OYCCCpeQl12Sz_3t2W0e-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;not all&amp;nbsp;&lt;span data-reactroot=&quot;&quot; class=&quot;notion-enable-hover&quot; data-token-index=&quot;1&quot; style=&quot;&quot;&gt;algebraic &lt;/span&gt;expressions are&amp;nbsp;&lt;span data-reactroot=&quot;&quot; class=&quot;notion-enable-hover&quot; data-token-index=&quot;3&quot; style=&quot;&quot;&gt;polynomials&lt;br&gt;&lt;/span&gt;But all&amp;nbsp;&lt;span data-reactroot=&quot;&quot; class=&quot;notion-enable-hover&quot; data-token-index=&quot;5&quot; style=&quot;&quot;&gt;polynomials &lt;/span&gt;are&amp;nbsp;&lt;span data-reactroot=&quot;&quot; class=&quot;notion-enable-hover&quot; data-token-index=&quot;7&quot; style=&quot;&quot;&gt;algebraic &lt;/span&gt;expressions&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="620" width="820" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
