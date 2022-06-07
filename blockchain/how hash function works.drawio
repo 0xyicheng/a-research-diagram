@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T13:58:27.928Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="19.0.2" etag="3UZucyoldhUU_2UzUS7C" type="github"><diagram id="IU3W_bmJfKInJpm-Glce">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-07T14:04:25.931Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="kF0TQTvRSC6sn915yDpu" version="19.0.2" type="github">
+  <diagram id="IU3W_bmJfKInJpm-Glce" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DobynAos5C3Ud2CTPSRW-1" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="264.5" as="sourcePoint" />
+            <mxPoint x="440" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-11" value="0xd994d954ae647d4c4f040b3a82e5 ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-12" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="324.5" as="sourcePoint" />
+            <mxPoint x="440" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-14" value="0xd994d954ae647d4c4f040b3a82e5 ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="310" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-19" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="384.5" as="sourcePoint" />
+            <mxPoint x="440" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-21" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="444.5" as="sourcePoint" />
+            <mxPoint x="440" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-23" value="0xd994d954ae647d4c4f040b3a82e5 ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-24" value="0xd994d954ae647d4c4f040b3a82e5 ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-25" value="同样的值，多次hash，得到一样的结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-26" value="0xd994d954ae647d4c4f040b3a82e5 ..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-27" value="-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="600" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-28" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="710" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="DobynAos5C3Ud2CTPSRW-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="680" as="sourcePoint" />
+            <mxPoint x="220" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="DobynAos5C3Ud2CTPSRW-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="690" as="sourcePoint" />
+            <mxPoint x="220" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DobynAos5C3Ud2CTPSRW-31" value="hash函数的输入输出并不是一一对应，同样的输出值可能会得到不一样的输入值（不可逆的单向hash函数）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="780" width="310" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
