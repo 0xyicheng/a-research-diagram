@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T13:14:37.339Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="19.0.2" etag="41a91BiDCh9FcsClzZNu" type="github"><diagram id="enfCwmxi_cqcEVHjS1pd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-07T13:45:35.101Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="OSTDbbihE6wCOhoBMEpl" version="19.0.2" type="github">
+  <diagram id="enfCwmxi_cqcEVHjS1pd" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-1" value="地址：X" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-2" value="A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="BvvhRRbFiNU3tSkEfp1w-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-6" value="1）Address X由public key生成&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2）user A可以通过自己的private key，签署一个message，并生成signature&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3）user B（可以是Dapp）验证这个user A有没有使用address X的权限，检查对应的signature即可（这样user A既可以不暴露自己的private key，只需要share signed signature，就可以使用对应的address X）&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="410" width="650" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-7" value="sign a signature（通过private key）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="299.5" as="sourcePoint" />
+            <mxPoint x="590" y="299.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-15" value="产生对应的signature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="282.5" width="165" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-16" value="Dapp" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="290" as="sourcePoint" />
+            <mxPoint x="645" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BvvhRRbFiNU3tSkEfp1w-19" value="Dapp检查signed signature，就可以确认User A是否有权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="165" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
