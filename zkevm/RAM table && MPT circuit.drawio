@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T15:57:40.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fIo3Ad3QG3fQIeOrjEoE" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T15:58:51.009Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mIui9coS3EYMMuhBCWND" version="20.0.1" type="github">
   <diagram id="ObhMipMzzlqMjiDfWady" name="Page-1">
     <mxGraphModel dx="1808" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,11 +37,11 @@
         <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RAM circuit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-11" value="EVM circuit check RAM table （bc stack/memory/storage operations）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="90" width="590" height="55" as="geometry" />
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-11" value="EVM circuit check RAM table &lt;br&gt;（bc stack/memory/storage operations）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="10" width="590" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-13" value="因为storage设计MPT，所以需要MPT circuit单独对其约束&lt;br&gt;而且MPT circuit需要查hash，MPT circuit就会check Keccak table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="420" width="570" height="60" as="geometry" />
+          <mxGeometry x="-50" y="420" width="570" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
