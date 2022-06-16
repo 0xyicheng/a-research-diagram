@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T15:51:57.587Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="lnzqPetLf8T2baEs4PKL" type="github"><diagram id="ObhMipMzzlqMjiDfWady">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-16T15:57:40.602Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="fIo3Ad3QG3fQIeOrjEoE" version="20.0.1" type="github">
+  <diagram id="ObhMipMzzlqMjiDfWady" name="Page-1">
+    <mxGraphModel dx="1808" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RAM table&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=default;strokeWidth=2;" edge="1" parent="1" source="Z81ZQtHsPa9Lhxw4W7nD-2" target="Z81ZQtHsPa9Lhxw4W7nD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MPT circuit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Keccak table&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;EVM circuit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Z81ZQtHsPa9Lhxw4W7nD-4" target="Z81ZQtHsPa9Lhxw4W7nD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=2;strokeColor=#FF3333;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z81ZQtHsPa9Lhxw4W7nD-2" target="Z81ZQtHsPa9Lhxw4W7nD-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="340" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;strokeColor=#FF3333;strokeWidth=2;" edge="1" parent="1" source="Z81ZQtHsPa9Lhxw4W7nD-7" target="Z81ZQtHsPa9Lhxw4W7nD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;RAM circuit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-11" value="EVM circuit check RAM table （bc stack/memory/storage operations）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" width="590" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Z81ZQtHsPa9Lhxw4W7nD-13" value="因为storage设计MPT，所以需要MPT circuit单独对其约束&lt;br&gt;而且MPT circuit需要查hash，MPT circuit就会check Keccak table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="420" width="570" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
