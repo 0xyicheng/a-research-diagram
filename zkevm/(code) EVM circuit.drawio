@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-30T09:59:18.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9SuAVaLskQnX-f0FJSS7" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-30T09:59:52.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ldXbEjepZ_vei-zLE9Sl" version="20.0.1" type="github">
   <diagram id="armhqeUeygUle4aU3SDP" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
           <mxGeometry x="15" y="550" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ORBNNmTDlNbMWPVycZKd-20" value="&lt;b&gt;一个block&lt;/b&gt;中的所有transactions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="265" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="265" y="425" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ORBNNmTDlNbMWPVycZKd-21" value="这个是read-write table&lt;br&gt;其中包含时序数据（time-aware data）的读写访问记录（record）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="200" height="40" as="geometry" />
