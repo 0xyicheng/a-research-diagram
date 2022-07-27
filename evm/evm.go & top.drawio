@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T09:35:44.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NokdPnUSPe0qBB0KJwyr" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T09:42:47.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="M-tLX-bK1dAeMz_y1Nso" version="20.1.1" type="github">
   <diagram id="n5umFkQqmq_fH0kpe_gc" name="Page-1">
     <mxGraphModel dx="1868" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,6 +87,9 @@
             <mxPoint x="680" y="250" as="sourcePoint" />
             <mxPoint x="610" y="330" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0N5lO8uYQMU0V-dwggI0-22" value="EVM会根据给定的state（stateDB），以及提供的context来运行contract的代码（block、tx）&lt;br&gt;&lt;br&gt;interpreter作为解释器，把合约代码解释成byte/pc/op等东西，让EVM理解并执行&lt;br&gt;&lt;br&gt;EVM不能被复用，每次都要创建一个新的EVM实例，来运行contract代码" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="428.75" y="410" width="342.5" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
