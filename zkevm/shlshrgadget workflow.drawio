@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" modified="2022-08-15T03:18:31.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sBzmPMcFp6GDbTwSzrhD" version="20.2.3" type="github">
+  <diagram id="7JeZEv_-g4WJROPK4Kss" name="Page-1">
+    <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D2-mlM6Mq9GVKwYfQJs5-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;SameContextGadget&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="290" y="200" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D2-mlM6Mq9GVKwYfQJs5-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;gen_witness时需要的参数&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="290" y="290" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D2-mlM6Mq9GVKwYfQJs5-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;其他用到的gadget&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="290" y="380" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D2-mlM6Mq9GVKwYfQJs5-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2-mlM6Mq9GVKwYfQJs5-2" target="D2-mlM6Mq9GVKwYfQJs5-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="170" as="sourcePoint" />
+            <mxPoint x="425" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D2-mlM6Mq9GVKwYfQJs5-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="D2-mlM6Mq9GVKwYfQJs5-3" target="D2-mlM6Mq9GVKwYfQJs5-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="260" as="sourcePoint" />
+            <mxPoint x="425" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
