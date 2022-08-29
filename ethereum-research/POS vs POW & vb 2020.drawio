@@ -1,11 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T14:18:16.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7X0RmOs8GRLxx7lxYxkr" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T14:21:24.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="p9Egv7Bf5pl7_nXcV6fX" version="20.2.7" type="github">
   <diagram id="xxtpA-ApIvmEhpQi7K85" name="Page-1">
     <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DyJLGWHGzmqQWYeSiuKX-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PoS vs PoW所有好处&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="80" y="250" width="210" height="100" as="geometry" />
+        <mxCell id="DyJLGWHGzmqQWYeSiuKX-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PoS vs PoW所有好处&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="80" y="245" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJLGWHGzmqQWYeSiuKX-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PoS在相同成本下，提供了更多的安全性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJLGWHGzmqQWYeSiuKX-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PoS受到攻击以后更容易恢复&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJLGWHGzmqQWYeSiuKX-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PoS Stake更去中心化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="430" y="430" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DyJLGWHGzmqQWYeSiuKX-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DyJLGWHGzmqQWYeSiuKX-1" target="DyJLGWHGzmqQWYeSiuKX-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DyJLGWHGzmqQWYeSiuKX-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DyJLGWHGzmqQWYeSiuKX-1" target="DyJLGWHGzmqQWYeSiuKX-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="335" as="sourcePoint" />
+            <mxPoint x="440" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DyJLGWHGzmqQWYeSiuKX-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DyJLGWHGzmqQWYeSiuKX-1" target="DyJLGWHGzmqQWYeSiuKX-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="335" as="sourcePoint" />
+            <mxPoint x="440" y="335" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
