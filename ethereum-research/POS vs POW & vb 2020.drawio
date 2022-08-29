@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T14:21:24.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="p9Egv7Bf5pl7_nXcV6fX" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T14:21:56.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="d_5rgHs0J4nDxvjxquP1" version="20.2.7" type="github">
   <diagram id="xxtpA-ApIvmEhpQi7K85" name="Page-1">
     <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="DyJLGWHGzmqQWYeSiuKX-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PoS vs PoW所有好处&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FFFF;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="80" y="245" width="210" height="160" as="geometry" />
+        <mxCell id="DyJLGWHGzmqQWYeSiuKX-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PoS vs PoW的三个主要好处&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="217.5" width="190" height="215" as="geometry" />
         </mxCell>
         <mxCell id="DyJLGWHGzmqQWYeSiuKX-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PoS在相同成本下，提供了更多的安全性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="430" y="130" width="220" height="90" as="geometry" />
