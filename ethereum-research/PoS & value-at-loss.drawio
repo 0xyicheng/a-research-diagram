@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T17:02:35.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Y89hAn2HKplBV4wSfw5w" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T17:07:28.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="nCI_d4BRrztfedToKr41" version="20.2.7" type="github">
   <diagram id="Sis4hmA3xrIMgg6QlpNs" name="Page-1">
-    <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1868" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,14 +62,26 @@
         <mxCell id="842N7nPz4yr5BajiFAhb-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Get Value&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="120" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="842N7nPz4yr5BajiFAhb-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;可能损失的金额&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="220" y="440" width="150" height="10" as="geometry" />
+        <mxCell id="842N7nPz4yr5BajiFAhb-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Amount that may be lost&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="842N7nPz4yr5BajiFAhb-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;得到的金额&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="842N7nPz4yr5BajiFAhb-20" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Reward of PoS&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="580" y="440" width="100" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="842N7nPz4yr5BajiFAhb-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Value at Loss -&amp;gt; VaL&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="580" width="195" height="30" as="geometry" />
+        <mxCell id="842N7nPz4yr5BajiFAhb-22" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Value at Loss -&amp;gt; VaL&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="590" width="242" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="842N7nPz4yr5BajiFAhb-23" value="" style="endArrow=none;html=1;rounded=0;shadow=0;sketch=0;fontSize=14;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="520" as="sourcePoint" />
+            <mxPoint x="40" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="842N7nPz4yr5BajiFAhb-26" value="Probability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="730" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="842N7nPz4yr5BajiFAhb-27" value="Value" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
