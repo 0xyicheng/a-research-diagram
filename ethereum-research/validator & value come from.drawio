@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T13:45:16.795Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7z4sPjBNdxW7HC222zCl" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T13:48:13.991Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="sU_f4njyEp7nJlNXWJO3" version="20.2.8" type="github">
   <diagram id="NdNx2JGu053G-j5TP742" name="Page-1">
     <mxGraphModel dx="1868" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,6 +57,21 @@
         </mxCell>
         <mxCell id="IfoGUkVT0MuTuoycNDT3-16" value="transaction fee发生在EC&lt;br&gt;所以validator在连接node时&lt;br&gt;需要在EC上config一个receipt address接收所有奖励" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="490" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IfoGUkVT0MuTuoycNDT3-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=1.5;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF3333;" edge="1" parent="1" source="IfoGUkVT0MuTuoycNDT3-4" target="IfoGUkVT0MuTuoycNDT3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfoGUkVT0MuTuoycNDT3-19" value="auth&lt;br&gt;通过JWT" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IfoGUkVT0MuTuoycNDT3-20" value="intract&lt;br&gt;通过engine API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IfoGUkVT0MuTuoycNDT3-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=1.5;fontSize=16;" edge="1" parent="1" source="IfoGUkVT0MuTuoycNDT3-19" target="IfoGUkVT0MuTuoycNDT3-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
