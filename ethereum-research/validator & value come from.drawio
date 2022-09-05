@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T13:42:57.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fRLYPZbR5t9zXvwkid49" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T13:45:16.795Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7z4sPjBNdxW7HC222zCl" version="20.2.8" type="github">
   <diagram id="NdNx2JGu053G-j5TP742" name="Page-1">
     <mxGraphModel dx="1868" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -51,6 +51,12 @@
             <mxPoint x="530" y="240" as="sourcePoint" />
             <mxPoint x="460" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IfoGUkVT0MuTuoycNDT3-15" value="奖励发放在beacon chain上&lt;br&gt;等post-merge并开放withdraw后&lt;br&gt;可以提现至execution layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IfoGUkVT0MuTuoycNDT3-16" value="transaction fee发生在EC&lt;br&gt;所以validator在连接node时&lt;br&gt;需要在EC上config一个receipt address接收所有奖励" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="150" y="490" width="420" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
