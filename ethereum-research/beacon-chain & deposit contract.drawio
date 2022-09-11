@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T08:47:15.878Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.2.8" etag="sd7Bs4tcYBnnvVcghO7r" type="github"><diagram id="AZMPEU-sgvfI8fvqoumY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-11T08:56:04.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="xrmQ5jt_X9nufXURXDBX" version="20.2.8" type="github">
+  <diagram id="AZMPEU-sgvfI8fvqoumY" name="Page-1">
+    <mxGraphModel dx="2276" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dhqz3l2HQk02442N1UIR-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Beacon Chain (consensus)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="590" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Main Chain (Execution)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="110" y="420" width="590" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Deposit Contract&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeWidth=2;exitX=0.154;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhqz3l2HQk02442N1UIR-1" target="dhqz3l2HQk02442N1UIR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-110" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-113" value="validator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-114" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-116" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-117" value="validator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-118" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-119" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-120" value="validator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-121" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-122" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-123" value="validator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-124" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-125" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhqz3l2HQk02442N1UIR-124" target="dhqz3l2HQk02442N1UIR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-126" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=14;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dhqz3l2HQk02442N1UIR-121" target="dhqz3l2HQk02442N1UIR-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-5" y="470" as="sourcePoint" />
+            <mxPoint x="140" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-127" value="向deposit contract质押32ETH，成为validator&lt;br&gt;beacon chain会根据质押的动作，返回新的validator（&lt;a href=&quot;https://github.com/ethereum/consensus-specs/blob/v1.0.0/specs/phase0/beacon-chain.md#deposits&quot;&gt;spec&lt;/a&gt;）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="520" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dhqz3l2HQk02442N1UIR-128" value="在merge之前（phase 0），这个单向质押的contract，是beacon chain和main chain唯一的通信方式" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="235" y="350" width="340" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
