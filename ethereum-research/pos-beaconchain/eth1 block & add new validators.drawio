@@ -1,14 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T08:53:17.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MSSanahhZ_uDDI_YClW5" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-14T08:55:42.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="VGko2eBH_OvlXUnCkw8r" version="20.3.0" type="github">
   <diagram id="0A2ew7b4jF6W3iwbolxe" name="Page-1">
     <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p4DQenMx6oALiS08usfD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="p4DQenMx6oALiS08usfD-2" target="p4DQenMx6oALiS08usfD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p4DQenMx6oALiS08usfD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;entryX=0;entryY=0.643;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p4DQenMx6oALiS08usfD-2" target="p4DQenMx6oALiS08usfD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p4DQenMx6oALiS08usfD-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Beacon Chain处理新user的deposit申请&lt;br&gt;&lt;br&gt;一笔新的deposit会产生Eth1 Block这个数据结构&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="320" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="p4DQenMx6oALiS08usfD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="p4DQenMx6oALiS08usfD-3" target="p4DQenMx6oALiS08usfD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p4DQenMx6oALiS08usfD-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;user发送32ETH，质押到deposit contract中&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p4DQenMx6oALiS08usfD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="p4DQenMx6oALiS08usfD-4" target="p4DQenMx6oALiS08usfD-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p4DQenMx6oALiS08usfD-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;其他validator会对这个Eth1 Block投票，如果超过50%投票通过，这个eth1 block就会被认为有效，并添加进state.eth1_data&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="320" height="80" as="geometry" />
@@ -18,6 +30,9 @@
         </mxCell>
         <mxCell id="p4DQenMx6oALiS08usfD-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;这个是Beacon Chain Block的body中的一部分&lt;br&gt;（block.body.eth1_data的部分，需要研究这个数据结构）&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="250" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p4DQenMx6oALiS08usfD-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;eth1_data被添加进BeaconState之后，新的validator申请才会被激活（32ETH从主链转移到beacon chain锁定，新的validator被添加进state.validators）&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="320" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
