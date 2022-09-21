@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T09:03:23.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="efpiQC5p4loKjtGwPL5i" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-21T09:04:34.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5iJMPCtTh4RDFZpEnqeM" version="20.3.3" type="github">
   <diagram id="SK4oLELdaQ1iFBRTrB2V" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,12 @@
             <mxPoint x="350" y="610" as="sourcePoint" />
             <mxPoint x="430" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8OGla8dSY7jNT_0wh96D-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;1与2，1与102可以产生slashing conflict&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8OGla8dSY7jNT_0wh96D-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;2与102不能产生conflict&lt;br&gt;Slashing发生在Fork的context中&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="430" y="610" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
