@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T08:48:49.001Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="j5hivSAnlfu-xPLU2Fpe" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T08:49:50.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="IeXKsmye5DJ8JsT0t4y_" version="20.3.3" type="github">
   <diagram id="p_LxvQXhGV9DOHsNAZXa" name="Page-1">
     <mxGraphModel dx="2276" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
         <mxCell id="Y_9VovuDxhxg9TztB7sc-37" value="Proposer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-10" y="230" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y_9VovuDxhxg9TztB7sc-38" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="Y_9VovuDxhxg9TztB7sc-38" value="Sync execution-layer state" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-20" y="445" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
