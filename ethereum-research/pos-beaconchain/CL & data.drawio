@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net" modified="2022-09-21T13:33:16.018Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="jZbBSkogxLL_r-qPDIGd" version="20.3.3" type="github">
+  <diagram id="-fiRNYx4OJ6nBfOhRL0k" name="Page-1">
+    <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-3" value="Proposer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="420" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-7" value="Bad Validators" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-8" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-13" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-32" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="310" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-39" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="310" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-40" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-43" value="New Validators" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="460" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-44" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-46" value="attestations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="465" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-47" value="Bad Proposer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#FF0000;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="640" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-48" value="Bad Attester" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#FF33FF;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-49" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=1.5;" edge="1" parent="1" source="m6vR3qpY-nCJ3pTRAgIn-8" target="m6vR3qpY-nCJ3pTRAgIn-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="170" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=1.5;" edge="1" parent="1" source="m6vR3qpY-nCJ3pTRAgIn-8" target="m6vR3qpY-nCJ3pTRAgIn-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="163.57142857142856" as="sourcePoint" />
+            <mxPoint x="650" y="116.42857142857144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-51" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=1.5;" edge="1" parent="1" source="m6vR3qpY-nCJ3pTRAgIn-3" target="m6vR3qpY-nCJ3pTRAgIn-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="215.3571428571429" as="sourcePoint" />
+            <mxPoint x="650" y="254.6428571428571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-52" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=1.5;" edge="1" parent="1" source="m6vR3qpY-nCJ3pTRAgIn-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="331.52173913043475" as="sourcePoint" />
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-53" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;strokeWidth=1.5;" edge="1" parent="1" source="m6vR3qpY-nCJ3pTRAgIn-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="339.8461538461538" as="sourcePoint" />
+            <mxPoint x="410" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-54" value="report bad validators" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=-35;" vertex="1" parent="1">
+          <mxGeometry x="225" y="230" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-55" value="aggregate attestations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="225" y="300" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m6vR3qpY-nCJ3pTRAgIn-56" value="process deposits" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;rotation=30;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
