@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T09:16:42.323Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zzHvkE5C7PtW8K3A-Px1" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T09:17:14.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Q0vDa1jDzF6qnUjd1ylO" version="20.3.3" type="github">
   <diagram id="QYALUe_-tc_HUjauDAMi" name="Page-1">
     <mxGraphModel dx="2276" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="W66tCanRUAg5-niA_C3P-11" value="Validator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=1.5;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="650" y="255" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W66tCanRUAg5-niA_C3P-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Prysm、LightHouse、Teku、Nimbus&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="170" y="170" width="300" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
