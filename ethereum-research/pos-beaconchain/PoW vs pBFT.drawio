@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T08:52:21.683Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="O-WUKXxOaAszgK-kUN-2" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T08:53:26.554Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="zUvi9JL662t4d1m0ACl4" version="20.3.7" type="github">
   <diagram id="ilXa1vaEQAaimMjIyy_I" name="Page-1">
     <mxGraphModel dx="1735" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
             <mxPoint x="930" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8_nAU7fzenCUrAZ5edRp-51" value="request and confirm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="8_nAU7fzenCUrAZ5edRp-51" value="&lt;font color=&quot;#ff6666&quot;&gt;request and confirm&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="630" y="480" width="130" height="10" as="geometry" />
         </mxCell>
       </root>
