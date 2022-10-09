@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-09T05:19:34.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="EMTol-x6o1wd4cVO8k5y" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-09T05:20:03.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="3gBUyVvcieD6x8jGjDJj" version="20.4.0" type="github">
   <diagram id="BRjr9ZerOnp95mnlU1ed" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="RLKBM7uX8HX1U-3OUpCM-23" value="&lt;font style=&quot;user-select: auto; font-size: 14px;&quot;&gt;checkpoint&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="420" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kp-4Tf_oLVRb0lPBXuIM-1" value="node vote to checkpoint&lt;br style=&quot;user-select: auto;&quot;&gt;the vote content is a &lt;span style=&quot;user-select: auto;&quot;&gt;&lt;b&gt;Link&lt;/b&gt;&lt;br style=&quot;user-select: auto;&quot;&gt;if vote more than 2/3, it is supermajority link (s -&amp;gt; t)&lt;br style=&quot;user-select: auto;&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kp-4Tf_oLVRb0lPBXuIM-1" value="node vote to checkpoint&lt;br style=&quot;user-select: auto;&quot;&gt;the vote content is a &lt;span style=&quot;user-select: auto;&quot;&gt;&lt;b style=&quot;user-select: auto;&quot;&gt;Link&lt;/b&gt;&lt;br style=&quot;user-select: auto;&quot;&gt;if vote more than 2/3, it is supermajority link (s -&amp;gt; t)&lt;br style=&quot;user-select: auto;&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="170" width="310" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kp-4Tf_oLVRb0lPBXuIM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1.5;" edge="1" parent="1" source="kp-4Tf_oLVRb0lPBXuIM-2" target="kp-4Tf_oLVRb0lPBXuIM-5">
