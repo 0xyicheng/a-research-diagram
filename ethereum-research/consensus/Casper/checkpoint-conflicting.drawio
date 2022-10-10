@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T06:32:21.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="K6taP4x1arxY2eN-ngR7" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T06:33:21.370Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="y9LWRwgECN6QRZSmv1Kr" version="20.4.0" type="github">
   <diagram id="vy0jo_7U0iQDIroymy1A" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
             <mxPoint x="505" y="300" as="sourcePoint" />
             <mxPoint x="475" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rveXuouI65hhvx1mZ-Yz-9" value="checkpoint a1,b2 are conflicting&lt;br&gt;checkpoint a1,b1 are conflicting too" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="253.75" y="190" width="302.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
