@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-10T11:16:01.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="6RixqDYwRmOkUy-Kc-R3" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-10T11:16:08.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="p5TbCMFySU-m0OwIVeKe" version="20.4.0" type="github">
   <diagram id="pGm6MjmUJyYkasZbrODY" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HDcylkz4XKt1juwoc_Es-36" value="&lt;font style=&quot;user-select: auto; font-size: 16px;&quot;&gt;1.start at the genesis block&lt;br&gt;set HEAD = genesis&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="67.5" y="245" width="205" height="35" as="geometry" />
+          <mxGeometry x="67.5" y="380" width="205" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HDcylkz4XKt1juwoc_Es-37" value="2.each time there is a fork&lt;br&gt;choose the subtree where more LMs supported (HEAD = subtree)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="290" y="170" width="360" height="50" as="geometry" />
