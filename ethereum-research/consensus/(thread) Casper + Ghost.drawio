@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T13:38:07.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="5ewRAelcEe6hqYMXObuW" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T13:38:54.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PzTR-s9wHPfNLYSdh9ja" version="20.4.0" type="github">
   <diagram id="W5z2iIQezchsIUy5hqy7" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="550" y="445" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PY7woh7BMV2at_6MfLpq-13" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="700" y="505" width="60" height="60" as="geometry" />
+          <mxGeometry x="700" y="510" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PY7woh7BMV2at_6MfLpq-14" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="720" y="410" width="60" height="60" as="geometry" />
@@ -75,6 +75,24 @@
         </mxCell>
         <mxCell id="PY7woh7BMV2at_6MfLpq-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Liveness: add blocks at any time&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="280" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="800" y="340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="790" y="420" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-27" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="790" y="445" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="770" y="510" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="770" y="530" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
+          <mxGeometry x="770" y="550" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
