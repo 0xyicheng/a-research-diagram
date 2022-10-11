@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T13:20:39.726Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="kJmqvbhWKSK4KnjE5pJh" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T14:34:36.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="-kZiGgXdup82sH5ZuApY" version="20.4.0" type="github">
   <diagram id="pGm6MjmUJyYkasZbrODY" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
           <mxGeometry x="710" y="435" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vtJ6mxMF6EGgL7DXIKE6-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Number of votes = current block + descendant blocks&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="420" width="390" height="70" as="geometry" />
+          <mxGeometry x="35" y="370" width="390" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lQn07dlVaX_LCIOF5xfM-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;5 = 1 + 4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="275" y="345" width="100" height="25" as="geometry" />
