@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-11T13:38:54.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PzTR-s9wHPfNLYSdh9ja" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-11T14:05:47.273Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="aApVt53vvsUGaNG6-PBZ" version="20.4.0" type="github">
   <diagram id="W5z2iIQezchsIUy5hqy7" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,6 +93,21 @@
         </mxCell>
         <mxCell id="PY7woh7BMV2at_6MfLpq-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.smiley" vertex="1" parent="1">
           <mxGeometry x="770" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-32" value="After two-rounds vote, Casper FFG made (checkpoint) finalized" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="840" y="465" width="270" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=26;rotation=90;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="359.5" width="80" height="382" as="geometry" />
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-34" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF6666;strokeWidth=2;fontSize=16;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PY7woh7BMV2at_6MfLpq-12" target="PY7woh7BMV2at_6MfLpq-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="590" as="sourcePoint" />
+            <mxPoint x="510" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PY7woh7BMV2at_6MfLpq-35" value="Safety: all finalized checkpoints (blocks) as canonical chain, all honest nodes agree" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="216.5" y="560" width="350" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
