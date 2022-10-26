@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T09:03:39.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="73xQTocR27oCey6zu6xX" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T09:12:38.348Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RCftC1AaNu6VZc7urVOX" version="20.5.1" type="github">
   <diagram id="E7Li-SOSnWFFN81FZv6l" name="Page-1">
     <mxGraphModel dx="2276" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -174,6 +174,9 @@
             <mxPoint x="-40" y="-20" as="sourcePoint" />
             <mxPoint x="840" y="-20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8P1dzayB41oCeFM_nhB3-43" value="&lt;span style=&quot;user-select: auto;&quot;&gt;&lt;span style=&quot;font-size: 16px; user-select: auto;&quot;&gt;Make H=100&lt;/span&gt;&lt;br style=&quot;user-select: auto;&quot;&gt;&lt;span style=&quot;font-size: 16px; user-select: auto;&quot;&gt;The dashed line represents 99 blocks between the checkpoints&lt;/span&gt;&lt;br style=&quot;user-select: auto;&quot;&gt;&lt;div style=&quot;user-select: auto;&quot;&gt;&lt;span style=&quot;font-size: 16px; user-select: auto;&quot;&gt;Red block is the genesis block&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;user-select: auto;&quot;&gt;&lt;span style=&quot;font-size: 16px; user-select: auto;&quot;&gt;Blue blocks is the checkpoint blocks&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="155" y="-120" width="510" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
