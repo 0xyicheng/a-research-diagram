@@ -1,4 +1,4 @@
-# research diagram
+# R&D
 
 <div align="center">
   <a href="https://www.artstation.com/artwork/9mEx8a/">
