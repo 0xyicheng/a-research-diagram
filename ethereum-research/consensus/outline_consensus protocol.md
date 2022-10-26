@@ -176,17 +176,64 @@
             + Modular overlay
                 + clean and have a modular design
     + Main components
-        + tree-like
-            + checkpoint block
-            + future: single slot
+        + Checkpoint tree
+            + Casper is designed to work with a wide class of **blockchain protocols** with **tree-like structures**
+            + Checkpoint tree
+                + Checkpoint block
+                    + The blocks whose height is a multiple of a constant H
+                    + For example, H = 100, blocks = 0, 100, 200, 300, ...
+                    + In Ethereum, H = 32
+                + Checkpoint tree
+                    ![](https://i.imgur.com/WPBiM6r.png)
+                    + Finality on Checkpoint blocks
+                    + Checkpoint blocks form a Checkpoint tree
+            + Future: single slot
+                + There is a research direction to reduce H to 1
+                + In this way, each block (slot) is a checkpoint block
+                + Can speed up finality time (from 32 slots to 1 slots, 384s to 12s)
+        + Checkpoints pair
+            + The definition
+                ![](https://i.imgur.com/NgNNtzo.png)
+                + $checkpoint(s,t)$
+                    + The pair is a link from source checkpoint to target checkpoint 
+                    + Pair is the content of validator votes (i.e. attestations)
+            + Supermajority Link
+                + Pairs with $\frac{2}{3}$ staker votes
         + Justification and Finalization
+            + Genesis Block
+                + The genesis block is justified/finalized by default
+            + Justification
+                + a checkpoint $c$ is called justified if 
+                    + (1) it is root
+                    + (2)there exits a supermajority link $c' \to c$ where checkpoint $c'$ is **justified**
+            + Finalization
+                + a checkpoint $c$ is finalized if and only if
+                    + (1) it is root
+                    + (2) checkpoint $c$ is **justified**, and there exits a supermajority link $c \to c'$, checkpoints $c$ and $c'$ are not conflicting, and $h(c')=h(c)+1$ 
+                + Finalized blocks as part of the canonical chain
         + Slashing conditions
+            + Note
+                + Validator violations will be punished
+                + All violating validators can be traced (by signature)
+            + The definition
+                ![](https://i.imgur.com/oA4a9VI.png)
+                + A validator must not publish two distinct votes for the same target height
+                + A validator must not vote within the span of other votes
+            + My comments
+                ![](https://i.imgur.com/KbH4z2c.png)
 + Reference
     + [medium](https://medium.com/unitychain/intro-to-casper-ffg-9ed944d98b2d)
-    + Casper FFG paper (all) and Gasper paper (Casper part)
+    + Casper FFG paper
+    + Gasper paper (Casper FFG part)
 #### Gasper
 + Re-call "general intro"
     + The Proof-of-Stake (PoS) Ethereum consensus protocol is constructed by applying the finality gadget **Casper FFG** on top of the fork choice rule **LMD-GHOST**
++ Overview
+    ![](https://i.imgur.com/gv9HwVp.png)
+    + Proposer proposal and run fork-choice rule to add new block
+    + Attesters publishe the attestations and broadcast
+        + For each slot
+        + For checkpoint pair, after two rounds, new epoch will be finalized and be a part of canonical chain
 + How it works
     + Committees
     + Proposer and attester
@@ -196,3 +243,11 @@
     + Done
 + Reference
     + Gasper Paper (4, 8, 9 sections)
+
+### Reference
++ Eth2 Book
++ BGP paper
++ pBFT paper
++ CAP paper
++ Casper FFG
++ Gasper paper
