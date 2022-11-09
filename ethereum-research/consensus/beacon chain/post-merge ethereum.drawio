@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T05:22:43.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="J_UzAkiCqiM4d6012y2p" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T05:23:34.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="uOgXzmQ1GUa_mjvjLxAY" version="20.5.3" type="github">
   <diagram id="Zc2az0ZB5bskmccVlGRB" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="wT5RMLsdYNDZPxzC3qJf-28" value="&lt;span style=&quot;font-size: 16px&quot;&gt;PoS&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="540" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wT5RMLsdYNDZPxzC3qJf-29" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Beacon node&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+        <mxCell id="wT5RMLsdYNDZPxzC3qJf-29" value="&lt;span style=&quot;font-size: 16px&quot;&gt;PoS&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="730" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wT5RMLsdYNDZPxzC3qJf-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;fontSize=16;exitX=-0.021;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
