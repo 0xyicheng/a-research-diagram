@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T05:23:50.306Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="245SPQnmzH2KNHanDjPl" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T05:25:09.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3z0kFACQVzMkuLL1wH5F" version="20.5.3" type="github">
   <diagram id="Zc2az0ZB5bskmccVlGRB" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,6 +102,9 @@
         </mxCell>
         <mxCell id="wT5RMLsdYNDZPxzC3qJf-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Execution Layer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry y="395" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wT5RMLsdYNDZPxzC3qJf-45" value="&lt;font style=&quot;font-size: 16px; user-select: auto;&quot;&gt;&lt;br style=&quot;user-select: auto;&quot; class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(32, 33, 36); font-family: arial, sans-serif; text-align: left; user-select: auto;&quot;&gt;Beacon Chain is merged into Execution Chain, so there is only one chain&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="460" width="670" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
