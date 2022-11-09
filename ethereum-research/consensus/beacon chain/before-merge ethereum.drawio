@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T05:32:47.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="cBLM_1ycEtA6IN5FMCoN" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T05:35:11.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TpuBhj1pn7LhFo6nugfq" version="20.5.3" type="github">
   <diagram id="f6mKbpGXD1SB-0XBqbad" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="HqmG7QS4N1iPkq1eYaqS-10" value="&lt;font style=&quot;font-size: 16px&quot;&gt;PoW&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="790" y="370" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HqmG7QS4N1iPkq1eYaqS-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Ethereum&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-12" value="&lt;span style=&quot;font-size: 16px; user-select: auto;&quot;&gt;Ethereum Chain&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry y="395" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HqmG7QS4N1iPkq1eYaqS-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Beacon Chain&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
@@ -78,6 +78,42 @@
             <mxPoint x="790" y="294.5" as="sourcePoint" />
             <mxPoint x="700" y="294.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-24" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Beacon Chain&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-26" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF6666;strokeWidth=1.2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="219.5" y="380" as="sourcePoint" />
+            <mxPoint x="220" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-27" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF6666;strokeWidth=1.2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429.5" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-28" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF6666;strokeWidth=1.2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.5" y="380" as="sourcePoint" />
+            <mxPoint x="640" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF6666;strokeWidth=1.2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="849" y="380" as="sourcePoint" />
+            <mxPoint x="849.5" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Deposit Contract&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-31" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Deposit Contract&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="340" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HqmG7QS4N1iPkq1eYaqS-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Deposit Contract&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="700" y="340" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
