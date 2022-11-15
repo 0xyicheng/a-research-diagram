@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T15:08:47.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Q5VgcbEG7MEdA8a9-ghx" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T15:10:17.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sThcfIukP4K4pssI-RBM" version="20.5.3" type="github">
   <diagram id="mDAeUo6ue5r8DACoTHrS" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="Nos_kb7dK99M2C3NmWtU-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="305" width="380" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="Nos_kb7dK99M2C3NmWtU-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Consensus protocol = algorithms&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Nos_kb7dK99M2C3NmWtU-4" value="&lt;span style=&quot;font-size: 18px; user-select: auto;&quot;&gt;Consensus protocol&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="227.5" y="450" width="280" as="geometry" />
         </mxCell>
         <mxCell id="Nos_kb7dK99M2C3NmWtU-5" value="Consensus mechanism" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
