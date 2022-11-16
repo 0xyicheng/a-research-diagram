@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T08:35:29.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YBLl5e30eX9ln8QzF46v" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T08:38:12.873Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VkR1t1rpIQ-KKUgfWrad" version="20.5.3" type="github">
   <diagram id="Rk1wXv1y2VstKtyzl4yg" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,6 +15,30 @@
         </mxCell>
         <mxCell id="WfoDyWuiCRt4YZBeNyyr-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=3;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="42.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-20" value="&lt;font style=&quot;user-select: auto; font-size: 22px;&quot;&gt;&lt;b&gt;Social&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="236.45" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-21" value="&lt;font style=&quot;user-select: auto; font-size: 22px;&quot;&gt;&lt;b&gt;Recovery&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="431.25" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-22" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=22;curved=1;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="190" as="sourcePoint" />
+            <mxPoint x="461.25" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-23" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;rounded=0;fontSize=22;curved=1;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="190" as="sourcePoint" />
+            <mxPoint x="540" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-24" value="&lt;span style=&quot;user-select: auto;&quot;&gt;&lt;span style=&quot;user-select: auto;&quot;&gt;&lt;font style=&quot;user-select: auto; font-size: 21px;&quot;&gt;forking&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-25" value="&lt;span style=&quot;user-select: auto;&quot;&gt;&lt;span style=&quot;user-select: auto;&quot;&gt;&lt;font style=&quot;user-select: auto; font-size: 21px;&quot;&gt;slashing&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="170" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
