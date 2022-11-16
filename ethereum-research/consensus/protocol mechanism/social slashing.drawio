@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T08:32:48.420Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="sJbWFCIixxKnmv-6FL-K" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T08:35:29.081Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YBLl5e30eX9ln8QzF46v" version="20.5.3" type="github">
   <diagram id="Rk1wXv1y2VstKtyzl4yg" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,15 @@
         <mxCell id="1" parent="0" />
         <mxCell id="WfoDyWuiCRt4YZBeNyyr-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static-00.iconduck.com/assets.00/waving-black-flag-emoji-439x512-q1z0q6kg.png;" vertex="1" parent="1">
           <mxGeometry x="200" y="250" width="162.91" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.emojiterra.com/twitter/v13.1/512px/1f374.png;" vertex="1" parent="1">
+          <mxGeometry x="396.25" y="250" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=3;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="260.2" y="360" width="42.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="WfoDyWuiCRt4YZBeNyyr-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;strokeWidth=3;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="470" y="360" width="42.5" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
