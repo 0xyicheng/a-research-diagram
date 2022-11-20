@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T09:03:55.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="jMhiKDwfMVSNMVm6KMQA" type="github"><diagram id="aF8yQ9nvqv4x6tSAAT9Z">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-20T09:06:22.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hoizsjyxjbKeYLmJ_RVd" version="20.5.3" type="github">
+  <diagram id="aF8yQ9nvqv4x6tSAAT9Z" name="Page-1">
+    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KkK6aTdltqJti5KkFWVy-1" value="&lt;font style=&quot;user-select: auto; font-size: 18px;&quot;&gt;Fork-Choice Rule Function&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KkK6aTdltqJti5KkFWVy-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=1.2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="KkK6aTdltqJti5KkFWVy-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="415" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KkK6aTdltqJti5KkFWVy-3" value="nodes" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="80" y="385" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KkK6aTdltqJti5KkFWVy-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;strokeWidth=1.2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="414.5" as="sourcePoint" />
+            <mxPoint x="660" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KkK6aTdltqJti5KkFWVy-6" value="input node&#39;s local view" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KkK6aTdltqJti5KkFWVy-7" value="output what canonical chain is" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="480" y="375" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KkK6aTdltqJti5KkFWVy-8" value="Block 5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="670" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
