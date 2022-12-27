@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-27T12:32:23.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="Uqkv6GOD0R8SELC9gWFn" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-27T12:32:57.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="gmyyKbmjes_teAjlFozP" type="github">
   <diagram id="5NtX_Wvmh-GeWF7cQuOn" name="Page-1">
     <mxGraphModel dx="1026" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
             <mxPoint x="700" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cWBHKGqcajPQgnPL3pIP-12" value="&lt;span style=&quot;font-size: 16px; user-select: auto;&quot;&gt;Ethereum Chain&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="cWBHKGqcajPQgnPL3pIP-12" value="&lt;span style=&quot;font-size: 16px; user-select: auto;&quot;&gt;Monolithic&amp;nbsp;Chain&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry y="395" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
