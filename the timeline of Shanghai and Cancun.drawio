@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T15:15:03.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="eG4G10zeLqy84I-JxtJ6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T15:16:59.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="68mHoWlj-VzMJMLJBiiI" type="github">
   <diagram id="aM58DmTbeHT4zwiKfn0c" name="Page-1">
     <mxGraphModel dx="1454" dy="389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,19 +53,43 @@
           <mxGeometry x="697.5" y="372.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ie1rnZPizhehG04Gj-0B-24" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Complete the EOF client implementation and testing&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="2.5" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="2.5" y="460" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ie1rnZPizhehG04Gj-0B-25" value="NOW!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-60" y="372.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ie1rnZPizhehG04Gj-0B-27" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Shanghai shadow forks&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="135" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="135" y="452" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ie1rnZPizhehG04Gj-0B-28" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Complete EOF cross-client interoperability&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="270" y="420" width="100" height="30" as="geometry" />
+          <mxGeometry x="270" y="460" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ie1rnZPizhehG04Gj-0B-29" value="&lt;div&gt;More tests to make EOF and withdrawal stable enough&lt;/div&gt;&lt;div&gt;Withdrawals on public testnets&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="382.5" y="412" width="130" height="70" as="geometry" />
+          <mxGeometry x="382.5" y="452" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ie1rnZPizhehG04Gj-0B-31" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="57.209999999999994" y="420" as="sourcePoint" />
+            <mxPoint x="57.209999999999994" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1rnZPizhehG04Gj-0B-32" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189.7099999999998" y="420" as="sourcePoint" />
+            <mxPoint x="189.7099999999998" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1rnZPizhehG04Gj-0B-33" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.7099999999998" y="420" as="sourcePoint" />
+            <mxPoint x="319.7099999999998" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ie1rnZPizhehG04Gj-0B-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="447.2099999999998" y="420" as="sourcePoint" />
+            <mxPoint x="447.2099999999998" y="450" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
