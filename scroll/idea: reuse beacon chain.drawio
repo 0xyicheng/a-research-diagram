@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T05:45:08.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="HgJMExg6meLvbQR-6yVP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T05:49:32.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="NcO9pKtIKBujNCwJa368" type="github">
   <diagram id="k6U_EYTmjG-QttEW6T5F" name="Page-1">
     <mxGraphModel dx="2044" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="y7fSU_ocWsPn4MPfriC_-33" value="deposit &amp;amp; withdrawals" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="410" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="y7fSU_ocWsPn4MPfriC_-34" value="We can reuse the deposit &amp;amp; staking &amp;amp; incentive and slashing &amp;amp; in-protocol PBS &amp;amp; withdrawal mechanism of Beacon Chain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="420" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
