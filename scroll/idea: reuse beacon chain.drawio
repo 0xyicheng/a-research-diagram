@@ -1,136 +1,139 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T05:55:00.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="qPstVNeUzkUMIykG-sDn" type="github">
-  <diagram id="k6U_EYTmjG-QttEW6T5F" name="Page-1">
-    <mxGraphModel dx="2177" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-1" value="Geth (Sequencer)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-2" value="zkEVM (prover)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="470" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="540" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-4" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="825" y="540" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="499.5" as="sourcePoint" />
-            <mxPoint x="550" y="499.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="570" y="485" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-7" value="builder, construct a block" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="510" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="499.5" as="sourcePoint" />
-            <mxPoint x="770" y="499.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-9" value="public-input, push into zkEVM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="515" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-10" value="Block" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="555" y="455" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-11" value="Prysm (Staking Layer)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="380" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-12" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-13" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="260" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-14" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-15" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="555" y="260" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-16" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-17" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="300" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-18" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="690" y="310" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-19" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="320" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-20" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="330" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-21" value="Ethereum" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="800" width="720" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-22" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="610" as="sourcePoint" />
-            <mxPoint x="840" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-23" value="publish the proofs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="760" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-24" value="New prover" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="310" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-25" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-20" y="350" as="sourcePoint" />
-            <mxPoint x="250" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-26" value="Staking xxx Scroll Token, and become a prover" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y7fSU_ocWsPn4MPfriC_-11" target="y7fSU_ocWsPn4MPfriC_-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="400" as="sourcePoint" />
-            <mxPoint x="990" y="400" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-28" value="Become provers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="390" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="289.5" as="sourcePoint" />
-            <mxPoint x="500" y="290" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-31" value="queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="260" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=1.5;fillColor=#f8cecc;strokeColor=#FF0000;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="460" as="sourcePoint" />
-            <mxPoint x="320" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-33" value="deposit &amp;amp; withdrawals" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-34" value="We can reuse the deposit &amp;amp; staking &amp;amp; incentive and slashing &amp;amp; in-protocol PBS &amp;amp; withdrawal mechanisms of Beacon Chain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="190" width="420" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-35" value="&lt;div&gt;Ethereum will definitely have its own zkEVM, so why not think about how they will design their own architecture&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="880" width="480" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="y7fSU_ocWsPn4MPfriC_-36" value="&lt;div&gt;Note: The biggest difference in &lt;b&gt;in-protocol PBS&lt;/b&gt; is the &lt;b&gt;proposer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ethereum&#39;s proposer only needs to produce block, Scroll&#39;s proposer is not only responsible for producing block, but also responsible for proving this block&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="800" width="420" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="65bd71144e">
+    <diagram id="k6U_EYTmjG-QttEW6T5F" name="Page-1">
+        <mxGraphModel dx="1833" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-1" value="Geth (Sequencer)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="470" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-2" value="zkEVM (prover)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="780" y="470" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-3" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="540" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-4" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="825" y="540" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-5" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="400" y="499.5" as="sourcePoint"/>
+                        <mxPoint x="550" y="499.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="485" width="30" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-7" value="builder, construct a block" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="420" y="510" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="620" y="499.5" as="sourcePoint"/>
+                        <mxPoint x="770" y="499.5" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-9" value="public-input, push into zkEVM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="515" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-10" value="Block" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="555" y="455" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-11" value="Prysm (Staking Layer)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="320" width="380" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-12" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="260" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-13" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="320" y="260" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-14" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="260" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-15" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="555" y="260" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-16" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="600" y="260" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-17" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="650" y="300" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-18" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="690" y="310" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-19" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="730" y="320" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-20" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="770" y="330" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-21" value="Ethereum" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="800" width="720" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-22" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="840" y="610" as="sourcePoint"/>
+                        <mxPoint x="840" y="790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-23" value="publish the proofs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="840" y="760" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-24" value="New prover" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="-60" y="310" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-25" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-20" y="350" as="sourcePoint"/>
+                        <mxPoint x="250" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-26" value="Staking xxx Scroll Token, and become a prover" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="360" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-27" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y7fSU_ocWsPn4MPfriC_-11" target="y7fSU_ocWsPn4MPfriC_-2" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="720" y="400" as="sourcePoint"/>
+                        <mxPoint x="990" y="400" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-28" value="Become provers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="670" y="270" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="380" y="289.5" as="sourcePoint"/>
+                        <mxPoint x="500" y="290" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-31" value="queue" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="410" y="260" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=1.5;fillColor=#f8cecc;strokeColor=#FF0000;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="320" y="460" as="sourcePoint"/>
+                        <mxPoint x="320" y="390" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-33" value="deposit &amp;amp; withdrawals" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="410" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-34" value="We can reuse the deposit &amp;amp; staking &amp;amp; incentive and slashing &amp;amp; in-protocol PBS &amp;amp; withdrawal mechanisms of Beacon Chain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="190" width="420" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-35" value="&lt;div&gt;Ethereum will definitely have its own zkEVM, so why not think about how they will design their own architecture&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="880" width="480" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="y7fSU_ocWsPn4MPfriC_-36" value="&lt;div&gt;Note: The biggest difference in &lt;b&gt;in-protocol PBS&lt;/b&gt; is the &lt;b&gt;proposer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ethereum's proposer only needs to produce block, Scroll's proposer is not only responsible for producing block, but also responsible for proving this block&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-250" y="800" width="420" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="assign to a peover (or provers)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="800" y="430" width="150" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
 </mxfile>
