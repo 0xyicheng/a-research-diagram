@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T11:42:17.896Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="KTjGIOimH32wnwvgciJl" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T11:44:11.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hnvXwq3vL5U0gRpJ4ije" version="21.0.8" type="github">
   <diagram name="Page-1" id="ctulLeQlM0dMLgOaPzBB">
-    <mxGraphModel dx="3238" dy="1508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1987" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wrPYwseuw_jgDltfjAQe-1" value="Validators" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-350" y="342.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-270" y="342.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-2" value="Partial Withdrawal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="258.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wrPYwseuw_jgDltfjAQe-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;withdrawal lifecycle&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="180" width="320" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-4" value="Full Withdrawal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-102.5" y="442.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="442.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wrPYwseuw_jgDltfjAQe-1" target="CXpH8KRaZOT8DChW0XAy-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -32,7 +29,7 @@
           <mxGeometry x="140" y="230" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Manual Submit&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-102.5" y="510" width="120" height="20" as="geometry" />
+          <mxGeometry x="-42.5" y="510" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-12" value="have slashing" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="65" y="620" width="30" height="60" as="geometry" />
@@ -47,7 +44,7 @@
           <mxGeometry x="270" y="720" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-19" value="Withdrawal Queue" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="590" y="342.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="505" y="342.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-20" value="Exit Queue&lt;br&gt;(Exit CL here)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="130" y="442.5" width="120" height="60" as="geometry" />
@@ -77,13 +74,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-26" value="Now the rate is 8w/epoch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="345" y="505" width="160" height="30" as="geometry" />
+          <mxGeometry x="317.5" y="500" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-27" value="1 sweep = 16384&lt;br&gt;from 0 to 55w" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="400" y="278.75" width="120" height="40" as="geometry" />
+          <mxGeometry x="365" y="278.75" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-28" value="Signal EL&lt;br&gt;EL process withdrawal list, add corresponding balance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="930" y="342.5" width="230" height="60" as="geometry" />
+          <mxGeometry x="820" y="342.5" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wrPYwseuw_jgDltfjAQe-19" target="wrPYwseuw_jgDltfjAQe-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -92,23 +89,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-30" value="withdrawal amount + address&lt;br&gt;the limit is 16w/slot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="730" y="330" width="180" height="40" as="geometry" />
+          <mxGeometry x="640" y="330" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;edgeStyle=orthogonalEdgeStyle;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wrPYwseuw_jgDltfjAQe-28" target="wrPYwseuw_jgDltfjAQe-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="490" as="sourcePoint" />
             <mxPoint x="1040" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1045" y="530" />
-              <mxPoint x="650" y="530" />
+              <mxPoint x="935" y="530" />
+              <mxPoint x="565" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-34" value="Loop: EL gets withdrawals information and processes it repeatedly" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="660" y="550" width="380" height="30" as="geometry" />
+          <mxGeometry x="550" y="535" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CXpH8KRaZOT8DChW0XAy-1" value="Pre-Check&lt;br&gt;if `0x01` credentials prefix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="265" width="115" height="47.5" as="geometry" />
+          <mxGeometry x="-40" y="265" width="115" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="CXpH8KRaZOT8DChW0XAy-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CXpH8KRaZOT8DChW0XAy-1" target="wrPYwseuw_jgDltfjAQe-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,7 +117,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CXpH8KRaZOT8DChW0XAy-6" value="Pre-Check&lt;br&gt;if `0x01` credentials prefix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="367" y="448.75" width="115" height="47.5" as="geometry" />
+          <mxGeometry x="340" y="448.75" width="115" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="CXpH8KRaZOT8DChW0XAy-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wrPYwseuw_jgDltfjAQe-20" target="CXpH8KRaZOT8DChW0XAy-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
