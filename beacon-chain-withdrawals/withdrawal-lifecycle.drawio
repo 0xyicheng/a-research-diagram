@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T11:44:11.721Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hnvXwq3vL5U0gRpJ4ije" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-22T11:44:20.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZYJNkoPsCAJREoB1EGYu" version="21.0.8" type="github">
   <diagram name="Page-1" id="ctulLeQlM0dMLgOaPzBB">
     <mxGraphModel dx="1987" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -96,13 +96,13 @@
             <mxPoint x="990" y="490" as="sourcePoint" />
             <mxPoint x="1040" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="935" y="530" />
-              <mxPoint x="565" y="530" />
+              <mxPoint x="935" y="580" />
+              <mxPoint x="565" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wrPYwseuw_jgDltfjAQe-34" value="Loop: EL gets withdrawals information and processes it repeatedly" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="550" y="535" width="380" height="30" as="geometry" />
+          <mxGeometry x="550" y="590" width="380" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CXpH8KRaZOT8DChW0XAy-1" value="Pre-Check&lt;br&gt;if `0x01` credentials prefix" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-40" y="265" width="115" height="47.5" as="geometry" />
