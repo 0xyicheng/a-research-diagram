@@ -1,0 +1,16 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Axis -->
+  <line x1="50" y1="550" x2="750" y2="550" stroke="black" />
+  <line x1="50" y1="50" x2="50" y2="550" stroke="black" />
+
+  <!-- Segments -->
+  <polyline points="50,50 170,550" stroke="blue" stroke-width="2" fill="none" />
+  <polyline points="170,550 290,161" stroke="blue" stroke-width="2" fill="none" />
+  <polyline points="290,161 410,112" stroke="blue" stroke-width="2" fill="none" />
+  <polyline points="410,112 530,72" stroke="blue" stroke-width="2" fill="none" />
+  <polyline points="530,72 650,0" stroke="blue" stroke-width="2" fill="none" />
+
+  <!-- Labels -->
+  <text x="770" y="565" font-size="14">Number of Active Validators</text>
+  <text x="0" y="30" font-size="14" transform="rotate(-90, 25, 40)">Exit Time (days)</text>
+</svg>

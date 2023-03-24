@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="dLsT6jIH5VIg3OpLpuIP" name="Page-1">
-        <mxGraphModel dx="870" dy="363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1293" dy="1423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -25,7 +25,7 @@
                 <mxCell id="DpxDroA3MUpd-SQL_Dhd-10" value="&lt;span style=&quot;font-size: 16px&quot;&gt;PoS&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
                     <mxGeometry x="540" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="DpxDroA3MUpd-SQL_Dhd-11" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Beacon node&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
+                <mxCell id="DpxDroA3MUpd-SQL_Dhd-11" value="&lt;span style=&quot;font-size: 16px&quot;&gt;PoS&lt;/span&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
                     <mxGeometry x="730" y="280" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="DpxDroA3MUpd-SQL_Dhd-15" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=1.5;fontSize=16;exitX=-0.021;exitY=0.525;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -97,11 +97,14 @@
                 <mxCell id="DpxDroA3MUpd-SQL_Dhd-28" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Engine API&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
                     <mxGeometry x="640" y="350" width="100" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="DpxDroA3MUpd-SQL_Dhd-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Consensus Layer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                <mxCell id="DpxDroA3MUpd-SQL_Dhd-29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;CL&lt;br&gt;Consensus Layer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
                     <mxGeometry y="295" width="150" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="DpxDroA3MUpd-SQL_Dhd-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Execution Layer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+                <mxCell id="DpxDroA3MUpd-SQL_Dhd-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;EL&lt;br&gt;Execution Layer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
                     <mxGeometry y="395" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;PoS&lt;/font&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="90" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
