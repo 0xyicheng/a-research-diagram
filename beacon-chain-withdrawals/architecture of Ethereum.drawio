@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T11:05:55.523Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.10" etag="IHBXPrPE_uQmkPiRcYHx" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T11:06:06.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.10" etag="-fqC8qxlEj4BND5UX3ln" type="github">
   <diagram id="dLsT6jIH5VIg3OpLpuIP" name="Page-1">
     <mxGraphModel dx="2044" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CBrxlTjuPh4eXbc6q4Go-12" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Monolithic Chain&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
+          <mxGeometry x="20" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CBrxlTjuPh4eXbc6q4Go-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PoW Ethereum&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-150" y="90" width="170" height="30" as="geometry" />
